@@ -1,6 +1,6 @@
 # PhonePe Pulse Data Visualization and Exploration
 
-This repository contains a Streamlit application for visualizing and exploring PhonePe Pulse data. The app connects to a MySQL database to fetch data on transactions and users, and displays interactive visualizations to provide .
+This repository contains a Streamlit application for visualizing and exploring PhonePe Pulse data. The app connects to a MySQL database to fetch data on transactions and users, and displays interactive visualizations to provide insights.
 
 ## Table of Contents
 - [Installation](#installation)
